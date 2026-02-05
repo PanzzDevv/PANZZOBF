@@ -74,6 +74,7 @@
    ```javascript
    module.exports = {
      BOT_TOKEN: "YOUR_BOT_TOKEN_HERE"
+     ADMIN ID:
    };
    ```
 
